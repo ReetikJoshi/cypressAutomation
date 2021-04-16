@@ -1,0 +1,6 @@
+{
+    "baseUrl": "https://daraz.com.np",
+    "viewportWidth": 1400,
+    "viewportHeight": 800,
+    "chromeWebSecurity": false
+}
